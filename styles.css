@@ -1,0 +1,79 @@
+body {
+    background: #d3d3d3;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;}
+
+.InstagranFeed {
+    display: flex;
+    flex-direction: column;
+    box-sizing: content-box;}
+
+.navbar {
+    background: white;
+    display: inline-block;
+    justify-content: center;
+    align-content: center;
+    display: flex;}
+
+.postbody {
+    align-items: center;
+    display: flex;
+    flex-direction: column; }
+
+.firs-post {
+    width: 400px;
+    height: 480px;
+    background: white;
+    margin: 50px;}
+
+.two-post {
+    width: 400px;
+    height: 480px;
+    background: white;
+    margin: 50px;}
+
+.three-post {
+    width: 400px;
+    height: 480px;
+    background: white;
+    margin: 50px;}
+
+.four-post {
+    width: 400px;
+    height: 480px;
+    background: white;
+    margin: 50px;}
+
+.postcard-header {
+    display: flex;
+    margin: 5px;
+    justify-content: space-between;
+    padding: 0px;
+    margin: 10px;}
+
+.fa-ellipsis-vertical {
+    font-size: 25px;
+    margin: 10px;}
+
+.first {
+    height: 200px;
+    width: 400px;}
+
+.postcard-body-two {
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;}
+
+.title h2 {
+    margin-rigt: auto;
+    font-size: 15px;}
+
+.postcard-footer p {
+    text-align: justify;
+    padding: 10px;}
+
+.fa-heart {
+    color: red;}
